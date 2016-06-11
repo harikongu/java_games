@@ -1,3 +1,18 @@
+/**
+ * Created by Hariprasad in 2008, while pursuing second year engineering studies.
+ * This game was developed after inspiring from Pumbaa's bugs collection in Lion King game.
+ * Bugs collection video:
+ * https://www.youtube.com/watch?v=B4mBnfc27Dk
+ * Lion king was one of the games I played in my school days.
+ * 
+ * Watch the game video in youtube:
+ * https://www.youtube.com/watch?v=3wU8HJF6-uA
+ * 
+ * Warning:
+ * This is not the updated code and this may contain bugs.
+ * 
+ */
+
 package java_games;
 
 import javax.imageio.ImageIO;

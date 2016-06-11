@@ -1,3 +1,14 @@
+/**
+ * Created by Hariprasad in 2008, while pursuing second year engineering studies.
+ * This game was developed after inspired by the popular Helicopter flash game.
+ * 
+ * Watch how the game look like in youtube:
+ * https://www.youtube.com/watch?v=izxtjY1hAE8
+ * 
+ * Warning:
+ * This is not the updated code and this may contain bugs.
+ */
+
 package java_games;
 
 import javax.swing.*;
